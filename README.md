@@ -33,5 +33,4 @@
   <img align="center" height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" />
   <!-- Visualization -->
   <img align="center" height="45" src="https://dataliticaec.com/wp-content/uploads/2023/04/power-bi-logo-datalitica-min.png" />
-  <img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tableau_Software_logo.png" />
 </div>  
