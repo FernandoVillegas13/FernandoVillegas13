@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Fernando Villegas   
 
 💻 **GenAI Engineer** | Some years of experience in **Generative AI**, **Computer Vision**, **NLP**, and **data-driven solutions**.  
-🚀 Passionate about applying **state-of-the-art models** and building **custom AI systems** that automate processes, cut costs, and drive measurable impact.  
-🌱 Currently driving  **two AI-focused startups** while expanding expertise in applied generative AI and ML.  
+🚀 Passionate about applying **state-of-the-art models** and building **custom AI systems**, also **experimental** stuff.
+🌱 Currently driving  **two AI-focused startups** while expanding expertise in applied AI and ML.  
 
 ---
 
 ## 🧑‍💻 About Me  
 - 🤖 Hands-on with **Fine-Tuning & Deployment** of LLMs, embeddings, RAG pipelines, and intelligent agents.  
 - 🧠 Experienced with **GenAI ecosystems**: LangChain, LlamaIndex, HuggingFace, Replicate, Cohere, GPU Farms, and a lot more that I can't recall.  
-- ☁️ Skilled in **AWS (Bedrock, SageMaker, Lambda, EC2, S3, AuroraDB, and more)** for scalable AI/ML solutions.  
+- ☁️ Skilled in **AWS (Bedrock, SageMaker, Lambda, EC2, S3, AuroraDB, and more)** for scalable solutions, also Linux envs with **Digital Ocean**.  
 - 📊 Strong **data mindset**: from **ETL and predictive analytics** to **dynamic dashboards** with Tableau, Power BI, and QuickSight.  
-- 🌎 International experience in **AI development, data engineering, and analytics**, combining technical and business impact.  
+- 🌎 International experience in **AI development, data engineering, and analytics**, USA and Peru, combining technical and business exp.  
 
 ## 🛠️ Tech Stack & Skills  
 
