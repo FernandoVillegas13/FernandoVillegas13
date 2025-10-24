@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fernando Villegas   
 
-💻 **GenAI Engineer** | Some years of experience in **Generative AI**, **Computer Vision**, **NLP**, and **data-driven solutions**.  
+💻 **AI Engineer** | Some years of experience in **Generative AI**, **Computer Vision**, **NLP**, and **data-driven solutions**.  
 🚀 Passionate about applying **state-of-the-art models** and building **custom AI systems**, also **experimental** stuff.
 🌱 Currently driving  **two AI-focused startups** while expanding expertise in applied AI and ML.  
 
